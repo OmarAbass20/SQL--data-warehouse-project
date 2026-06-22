@@ -2,6 +2,7 @@
 
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights
 --
+
 ##  Project Requirements
 
 Building the Data Warehouse (Data Engineering)
@@ -18,6 +19,7 @@ Documentation: Provide clear documentation of the data model to support both bus
 ---
 
 ### BI: Analytics & Reporting (Data Analytics)
+
 Objective
 Develop SQL-based analytics to deliver detailed insights into:
 
@@ -30,6 +32,7 @@ These insights empower stakeholders with key business metrics, enabling strategi
 ---
 
 ### About ME 
+
 Hi , I am Omar Abass a Business Analyst / Data Analyst 
 
 I'm passionate about turning raw data into actionable insights, with hands-on experience in data analysis, business intelligence, and product analytics. I've worked as a Product Analyst at Henkel and a Business Developer at ReNile, where I developed a strong foundation in data-driven decision-making.
